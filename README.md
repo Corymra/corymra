@@ -1,16 +1,14 @@
-## Hi there 👋
+Cory — Builder of small, real-world operational tools.
 
-<!--
-**Corymra/corymra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on:
+• Local-first software
+• Privacy-preserving design
+• Simple systems that solve physical-world problems
 
-Here are some ideas to get you started:
+Projects:
+• YARD — Yard Access & Retrieval Directory  
+  Offline access-code coordination for distributed physical locations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Design philosophy:
+Small, focused tools that work reliably in the real world
+are more valuable than complex systems that never leave the screen.
